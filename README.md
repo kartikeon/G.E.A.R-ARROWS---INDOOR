@@ -5,7 +5,7 @@
 **G.E.A.R (Google Enhanced Augmented Reality)** is a mobile AR-based navigation application developed for both indoor and outdoor use. It enables users to navigate complex terrains such as campuses and buildings using AR arrows and contextual 3D models. The app overlays navigational arrows and block names directly into the user's camera view, enhancing the ability to reach destinations intuitively without relying on traditional GPS infrastructure.
 
 <p align="center">
-  <img src="assets/indoor.gif" alt="Indoor Gear" width="50%" />
+  <img src="assets/indoor.gif" alt="Indoor Gear" width="20%" />
 </p>
 
 ### Features
