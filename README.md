@@ -16,8 +16,6 @@
 - Quick access via QR code
 - Works offline after installation
 
-> 📍 Initially developed for MSEC campus, the G.E.A.R app can be extended to any real-world environment by updating GPS and scene values.
-
 ---
 
 ## 2. Hardware Used
@@ -69,16 +67,6 @@ A future wearable enhancement called **G.E.A.R Lens** is planned, featuring:
 - Object Recognition
 - Human Face Detection and Matching
 - AI-based Virtual Assistant
-
----
-
-## 📦 Installation Notes
-
-> ⚠️ These apps are **not available on the Play Store**.  
-> To install:
-1. Scan the **QR code** available at the MSEC campus.
-2. Download the `.apk` files from the linked Google Drive.
-3. Install and allow necessary permissions (camera and location).
 
 ---
 
